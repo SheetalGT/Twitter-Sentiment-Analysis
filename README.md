@@ -11,10 +11,10 @@ Most cited papers on twitter sentiment Analysis :
 
 
 Top researchers in sentiment analysis based on h index:
-Hsinchun Chen - 99
-Bing Liu - 91
-Liang Huang - 75
-Johanna Moore - 56
+Hsinchun Chen - 99,
+Bing Liu - 91,
+Liang Huang - 75,
+Johanna Moore - 56,
 Preslav Nakov - 43
 
 
